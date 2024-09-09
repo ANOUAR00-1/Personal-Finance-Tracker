@@ -1,3 +1,6 @@
 Commit #1 - Initial project setup and basic structure
 Date: 2024-09-03 00:00:00
 
+Commit #2 - Add Transaction class with basic properties
+Date: 2024-09-09 00:00:00
+
