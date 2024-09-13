@@ -7,3 +7,6 @@ Date: 2024-09-09 00:00:00
 Commit #3 - Implement basic FinanceTracker class
 Date: 2024-09-11 00:00:00
 
+Commit #4 - Add transaction list functionality
+Date: 2024-09-13 00:00:00
+
