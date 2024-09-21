@@ -22,3 +22,6 @@ Date: 2024-09-20 00:00:00
 Commit #8 - Build main menu interface
 Date: 2024-09-20 00:00:00
 
+Commit #9 - Add user input handling
+Date: 2024-09-21 00:00:00
+
