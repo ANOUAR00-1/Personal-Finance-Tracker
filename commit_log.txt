@@ -28,3 +28,6 @@ Date: 2024-09-21 00:00:00
 Commit #10 - Implement basic CLI interaction
 Date: 2024-09-21 00:00:00
 
+Commit #11 - Add transaction categories
+Date: 2024-09-22 00:00:00
+
