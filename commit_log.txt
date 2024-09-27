@@ -31,3 +31,6 @@ Date: 2024-09-21 00:00:00
 Commit #11 - Add transaction categories
 Date: 2024-09-22 00:00:00
 
+Commit #12 - Implement income vs expense tracking
+Date: 2024-09-27 00:00:00
+
