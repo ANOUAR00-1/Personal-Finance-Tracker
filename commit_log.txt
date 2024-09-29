@@ -37,3 +37,6 @@ Date: 2024-09-27 00:00:00
 Commit #13 - Add date tracking for transactions
 Date: 2024-09-27 00:00:00
 
+Commit #14 - Create JSON serialization methods
+Date: 2024-09-29 00:00:00
+
