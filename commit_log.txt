@@ -43,3 +43,6 @@ Date: 2024-09-29 00:00:00
 Commit #15 - Implement data persistence feature
 Date: 2024-10-02 00:00:00
 
+Commit #16 - Add delete transaction functionality
+Date: 2024-10-12 00:00:00
+
